@@ -44,7 +44,7 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
+  heading: Bangladesh's Economy
   description: >
     Bangladesh's economy has grown roughly 6% per year since 2005 despite
     prolonged periods of political instability, poor infrastructure, endemic
@@ -53,7 +53,11 @@ intro:
     sector, almost half of Bangladeshis are employed in the agriculture sector,
     with rice as the single-most-important product. Garments, the backbone of
     Bangladesh's industrial sector, accounted for more than 80% of total exports
-    in FY 2016-17. The industrial sector continues to grow, despite the need for
+    in FY 2016-17. 
+main:
+  heading: Industrial Sector
+  description: >
+    Bangladesh's industrial sector continues to grow, despite the need for
     improvements in factory safety conditions. Steady export growth in the
     garment sector, combined with $13 billion in remittances from overseas
     Bangladeshis, contributed to Bangladesh's rising foreign exchange reserves
@@ -63,25 +67,6 @@ intro:
     flooding. Recent improvements to energy infrastructure, including the start
     of liquefied natural gas imports in 2018, represent a major step forward in
     resolving a key growth bottleneck.
-main:
-  heading: Great coffee with no compromises
-  description: |
-    GDP
-    $262B
-    GDP GROWTH
-    7.4%
-    GDP PER CAPITA
-    $1,500
-    TRADE BALANCE/GDP
-    -2%
-    POPULATION
-    159.5M
-    UNEMPLOYMENT
-    4.4%
-    PUBLIC DEBT/GDP
-    33%
-    INFLATION
-    5.6%
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
