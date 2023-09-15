@@ -1,34 +1,43 @@
 ---
-templateKey: 'blog-post'
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
-date: 2017-01-04T15:04:10.000Z
+templateKey: blog-post
+title: Tea production in Bangladesh
+date: 2023-09-15T12:03:39.010Z
+description: Bangladesh exports tea to Afghanistan, Australia, Belgium, China,
+  Cyprus, France, Germany, Greece, India, Iran, Japan, Jordan, Kazakhstan,
+  Kenya, Kuwait, KSA, Kyrgyz Republic, Oman, Pakistan, Poland, Russia, Sudan,
+  Switzerland, Taiwan, UAE, UK and USA.
 featuredpost: true
-description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+featuredimage: /img/blog-index.jpg
 tags:
-  - jamaica
-  - green beans
+  - bangladesh
+  - green tea
   - flavor
-  - tasting
+  - black tea
 ---
+History of Bangladesh Tea Industry dates back to 1840 when a pioneer tea garden was established on the slopes of the hills in Chittagong where the Chittagong Club now stands. First commercial tea garden was established in 1857 at Mulnichera in Sylhet. During the partition in 1947, Bangladesh (the then East Pakistan) owned 103 tea estates, covering 26,734 hectares of tea plantation with annual production of 18.36 M.Kg. with an yield of about 639 Kg. per ha. Home consumption was around 13.64 M. Kg. upto 1955. After that home consumption went up rapidly and Government imposed 3% mandatory extension of tea area per year in 1961. Ten years later by 1970, tea area was extended to 42,658 hectares and production was incrased to 31.38 M.Kg.
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+**Types of Tea**
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+In presence, there are almost 30 countries producing 70% black tea, 25% green tea and the remaining 5% consisted of oolong tea. Like black tea, green and oolong tea are widely made in Asian countries to consume as a beverage and has been familiar in China and Japan from centuries.
 
-## A little history
+* **Green tea (i.e.) unfermented tea**
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+Green tea is derived solely and exclusively, and produced by acceptable processes, notably enzyme inactivation and commonly rolling or comminution, followed by drying, from the tender leaves, buds, and shoots of varieties of the species *Camellia sinensis* (L.) O. Kuntze, known to be suitable for making tea for consumption as a beverage.
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
+Green tea, called non-fermented tea has a more subtle, delicate flavour, and far less caffeine than fermented tea, is medicinally beneficial because the non-fermented leaves retain a higher concentration of natural vitamins and polyphenols than fermented counterparts.
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
+*  **Black tea (i.e.) fully fermented tea**
 
-## What you need to know before trying
+Black tea is a type of tea that is more oxidized than oolong, green and white teas. Black tea is generally stronger in flavor than the less oxidized teas. Two principal varieties of the species are used – the small-leaved Chinese variety plant (*C. sinensis* subsp.*sinensis*), used for most other types of teas, and the large-leaved Assamese plant (*C. sinensis* subsp. *assamica*), which was traditionally mainly used for black tea, although in recent years some green and white have been produced.
 
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
+* **Oolong tea (i.e.) partially fermented tea**
 
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
+Oolong is a traditional Chinese tea produced through a unique process including withering the plant under the strong sun and oxidation before curling and twisting. Oolong tea is a semi-fermented tea especially good for digestion, is advised to take after a large meal. The chemical compositions counted in semi-fermented oolong tea are in the ranges of non-fermented green tea to fully fermented black tea. Most oolong teas, especially those of fine quality, involve unique tea plant cultivars that are exclusively used for particular varieties. Oolong is especially popular with tea connoisseurs of south China and Chinese expatriates in Southeast Asia.
 
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+*  **Instant tea (i.e.) water soluble tea**
+
+In recent times, "instant teas" are becoming popular, similar to freeze-dried instant coffee. Similar products also exist for instant iced tea, due to the convenience of not requiring boiling water. Instant tea was developed in the 1930s, but not commercialised until later. Nestlé introduced the first instant tea in 1946, while Redi-Tea introduced the first instant iced tea in 1953. These products often come with added flavours, such as[chai](http://en.wikipedia.org/wiki/Masala_chai "chai"), vanilla, honey or fruit, and may also contain powdered milk. Tea connoisseurs tend to criticise these products for sacrificing the delicacies of tea flavour in exchange for convenience.
+
+* **White tea**
+
+White tea is a lightly oxidized tea grown and harvested primarily in China, mostly in the Fujian and Zhejiang province. More recently it is grown in Taiwan, India, Northern Thailand and Eastern Nepal. White tea comes from the buds and leaves of the Chinese Camellia sinensis plant. The leaves and buds are allowed to wither in natural sunlight before they are lightly processed to prevent oxidation or further tea processing. The name "white tea" derives from the fine silvery-white hairs on the unopened buds of the tea plant, which gives the plant a whitish appearance. The beverage itself is not white or colourless but pale yellow.
