@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
-title: "BD NEWS JOURNAL: UNCOVER, UNDERSTAND."
+title: "Your News: Uncover and Understand."
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+heading: "Your News: Uncover and Understand."
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaldi
