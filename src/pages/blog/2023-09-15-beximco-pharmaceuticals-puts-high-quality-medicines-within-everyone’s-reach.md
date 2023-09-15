@@ -5,7 +5,7 @@ date: 2023-09-15T15:18:09.880Z
 description: The Bangladesh-based pharma company is striding forward with its
   mission to make life-saving drugs available and affordable for people in every
   part of the world.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/beximco.webp
 tags:
   - medicine
