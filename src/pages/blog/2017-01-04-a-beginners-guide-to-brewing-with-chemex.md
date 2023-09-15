@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Future Needs of Bangladesh Tea Industry
-date: 2017-01-04T15:04:10.000Z
+date: 2023-09-15T12:28:18.900Z
 description: Tea is the second largest cash crop in Bangladesh after jute. From
   breakfast to evening chat, tea has been a favorite drink of this country’s
   people all day long. Apart from Bangladesh, tea is most prevalent in countries
