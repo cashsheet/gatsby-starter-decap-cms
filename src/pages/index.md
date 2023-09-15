@@ -46,10 +46,23 @@ intro:
         sale. The full price you pay goes to the artist.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Bangladesh's economy has grown roughly 6% per year since 2005 despite
+    prolonged periods of political instability, poor infrastructure, endemic
+    corruption, insufficient power supplies, and slow implementation of economic
+    reforms. Although more than half of GDP is generated through the services
+    sector, almost half of Bangladeshis are employed in the agriculture sector,
+    with rice as the single-most-important product. Garments, the backbone of
+    Bangladesh's industrial sector, accounted for more than 80% of total exports
+    in FY 2016-17. The industrial sector continues to grow, despite the need for
+    improvements in factory safety conditions. Steady export growth in the
+    garment sector, combined with $13 billion in remittances from overseas
+    Bangladeshis, contributed to Bangladesh's rising foreign exchange reserves
+    in FY 2016-17. The recent influx of over 700,000 additional refugees from
+    Burma will place pressure on the Bangladeshi government’s budget and the
+    country’s rice supplies, which declined in 2017 in part because of record
+    flooding. Recent improvements to energy infrastructure, including the start
+    of liquefied natural gas imports in 2018, represent a major step forward in
+    resolving a key growth bottleneck.
 main:
   heading: Great coffee with no compromises
   description: |
