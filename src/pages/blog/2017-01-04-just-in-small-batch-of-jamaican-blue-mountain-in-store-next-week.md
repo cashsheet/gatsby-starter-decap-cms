@@ -6,7 +6,7 @@ description: Bangladesh exports tea to Afghanistan, Australia, Belgium, China,
   Cyprus, France, Germany, Greece, India, Iran, Japan, Jordan, Kazakhstan,
   Kenya, Kuwait, KSA, Kyrgyz Republic, Oman, Pakistan, Poland, Russia, Sudan,
   Switzerland, Taiwan, UAE, UK and USA.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/blog-index.jpg
 tags:
   - bangladesh
