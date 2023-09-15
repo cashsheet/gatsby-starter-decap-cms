@@ -3,7 +3,7 @@ templateKey: index-page
 title: "Your News: Uncover and Understand."
 image: /img/home-jumbotron.jpg
 heading: "Your News: Uncover and Understand."
-subheading: Support sustainable farming while enjoying a cup
+subheading: BD Street Journal is Where Information Meets Inspiration
 mainpitch:
   title: Why Kaldi
   description: >
