@@ -5,7 +5,7 @@ image: /img/home-jumbotron.jpg
 heading: "Your News: Uncover and Understand."
 subheading: BD Street Journal is Where Information Meets Inspiration
 mainpitch:
-  title: Why Kaldi
+  title: BD Street Journal
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
