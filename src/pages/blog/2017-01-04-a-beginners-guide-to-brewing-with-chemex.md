@@ -1,29 +1,49 @@
 ---
 templateKey: blog-post
-title: A beginners’ guide to brewing with Chemex
+title: Future Needs of Bangladesh Tea Industry
 date: 2017-01-04T15:04:10.000Z
+description: Tea is the second largest cash crop in Bangladesh after jute. From
+  breakfast to evening chat, tea has been a favorite drink of this country’s
+  people all day long. Apart from Bangladesh, tea is most prevalent in countries
+  like India, China, Japan, and the United Kingdom. Due to this, tea has been
+  produced in Bangladesh for more than 180 years. At present, there are 167
+  commercial Tea Production Estates and Tea Gardens on 2,79,507.88 acres of land
+  in Bangladesh, employing about 1.5 lakh workers. In addition, 3% of global tea
+  is produced in Bangladesh. In 2021, the market size of the tea industry in
+  Bangladesh was about BDT 3500 crore.
 featuredpost: false
 featuredimage: /img/chemex.jpg
-description: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.
 tags:
-  - brewing
-  - chemex
+  - tea
 ---
-![chemex](/img/chemex.jpg)
+![tea](/img/chemex.jpg)
 
-This week we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts.
+In East Pakistan, tea was only cultivated in “Surma Valley” in Sylhet district and ‘Halda Valley’ in Chittagong district. During the tenure of Bangabandhu Sheikh Mujibur Rahman as the then Chairman of the Tea Board from 1957 to 1958, the establishment of the head office of the Tea Board in the Motijheel area of ​​Dhaka began. When the country’s tea gardens were destroyed during the war in 1971, the abandoned tea gardens were restored by forming the “Bangladesh Tea Industries Management Committee” or “BTIMC” after independence. In 1973, Bangladesh Tea Research Station was fully converted into a Tea Research Institute, known as Bangladesh Tea Research Institute or BTRI.
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is _"one of the best-designed products of modern times"_, and so is included in the collection of the Museum of Modern Art in New York City.
+Currently, there are five types of tea produced in Bangladesh: Green Tea, Black Tea, Oolong Tea, Instant Tea, and White Tea. According to the [Bangladesh Tea Board,](http://teaboard.portal.gov.bd/site/page/822c9bd2-bee2-44f6-8713-dc9e8344614b/-) Abul Khair Consumer Products Ltd is in the top position among the six leading companies in Bangladesh in tea exports. In addition, Kazi & Kazi Tea Estate Ltd., Halda Valley Food & Beverage Ltd., and M.M. Ispahani Limited are ranked second, third and fourth, respectively, and Meghna Tea Company is fifth, and The Consolidated Tea & Lands Co. (BD) Ltd is at sixth position. According to a [UNB](https://unb.com.bd/category/Business/best-tea-brands-in-bangladesh/64938) report published in 2021, the three top tea brands in Bangladesh are Ispahani Mirzapur, KK or Kazi & Kazi, and Fresh Premium Tea. Among them, Kazi & Kazi tea estate produces organic tea and has been promoting Green Tea in Bangladesh. In addition to Kazi & Kazi, several local and foreign brands, including Ispahani, Lipton, Halda Valley, and Finlay, are currently working to popularize several more tea categories. There are currently two auction centers in Bangladesh, where the tea produced is sold to various brands through auctions. One of these centers is Chittagong Auction Center, and the other is Srimangal Auction Center.
 
-## The little secrets of Chemex brewing
+## Challenges
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
+### Lack of Investment
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
+The major challenge of the tea industry in Bangladesh is the lack of proper investment. A considerable sum of money is required to maintain tea gardens and tea estates to repair factories and machinery, which is not enough in the country’s tea industry. Moreover, even 100-year-old tea gardens need investment to replant new tea seedlings. However, since this tea plant takes 5 to 7 years to grow, most private investors are not interested in investing here, which is hampering the growth of the country’s tea industry.
 
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
+### Poor Labor & Low Wages 
 
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+Another challenge for the tea industry in Bangladesh is the poor condition of laborers and salary allowances. According to a source in  news, in 2018, the per capita daily wage of tea workers in Bangladesh was only $1 USD per head, and they were given only 3 kg rations per week. However, later on in 2019, based on an agreement between tea workers and tea garden owners, the daily wage per capita of tea workers was increased little bit.
+
+
+
+## Opportunities
+
+### High Local & International Demand
+
+Along with the increasing tea consumption in Bangladesh, global tea consumption is also increasing. In this context, there is a considerable demand for Bangladeshi tea brands in the global market, said the country’s Commerce Minister, [Mr. Tipu Munshi.](https://thefinancialexpress.com.bd/trade/increase-tea-export-after-meeting-domestic-demand-commerce-minister-1598191855) In addition, in 2020, Bangladesh exported 21,70,000 kg of tea to 22 countries worldwide, which is about 260 percent more than the previous year. Although Bangladesh cannot export a sufficient quantity of tea after meeting the local demand, if production is increased, there is a possibility of earning more foreign revenues through tea export in the future.
+
+### New Variants
+
+If Bangladeshi brands can produce different variants and flavors of tea besides traditional black tea, then the premium tea sector also has a great potential to grow. Such premium teas can be marketed as gift packages in the domestic market and exported abroad. Compared to ordinary tea, such flavored infused teas are trendy and in demand in western countries. As a result, such premium tea has the potential to be a good export opportunity for Bangladeshi brands.
+
+### Skincare Product 
+
+Apart from beverages, tea is also used in skincare and beauty products. Therefore, producing tea-mixed skincare products as a by-product of tea leaves could be a unique opportunity for local brands. This could help create an entirely new industry in Bangladesh based on the tea industry, and Bangladesh could export skincare and beauty products besides tea leaves.
